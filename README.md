@@ -2,8 +2,12 @@
 
 ## Learning Goals
 
-- Describe the components of a web application framework.
+- Define the relationship between a web client and server.
+- Describe Hyper Text Transfer Protocol (HTTP).
 - Describe the structure of a request object.
+- Describe HTTP verbs.
+- Describe the properties of a response object.
+- Define status code categories.
 
 ---
 
