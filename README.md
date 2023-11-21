@@ -261,6 +261,14 @@ features, like:
 - HTTP Verbs.
 - HTTP Status Codes.
 
+HTTP is the foundation of data communication for the World Wide Web. HTTP
+defines a protocol that can be implemented using any number (or combination) of
+programming languages, frameworks, and libraries. The HTTP protocol defines
+built in ways to read and interpret requests, and send responses back to the
+client. HTTP gives us a more convenient way to customize the responses without
+having to worry about manually implementing the parts that are standard
+requirements for any web server.
+
 In the coming lessons, we'll see how to use Flask to help set up a server that
 lets us use these different features of HTTP in Python.
 
